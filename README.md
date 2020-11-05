@@ -2,8 +2,8 @@
 
 `image_blur` allows one to blur an image in hopefully a reasonable amount of time. The project was written as a way to learn and apply multithreading to speed up a task. This program will only blur PBM images.
 
-![Sample image](./images/sample.pbm)
-![Blurred image](./images/blurred.pbm)
+![Sample image](https://imgur.com/zj7KCDk)
+![Blurred image](https://imgur.com/SD1Jfgf)
 
 ## Requirements
 
