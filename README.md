@@ -2,11 +2,13 @@
 
 `image_blur` allows one to blur an image in hopefully a reasonable amount of time. The project was written as a way to learn and apply multithreading to speed up a task. This program will only blur PBM images.
 
+![](./images/sample.pbm)
+![](./images/blurred.pbm)
+
 ## Requirements
 
 * Linux distro
 * git
-* GCC
 
 ## Installation
 
